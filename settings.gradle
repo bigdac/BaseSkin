@@ -1,0 +1,3 @@
+rootProject.name='BaseSkin'
+include ':app'
+include ':skinlibrary'
